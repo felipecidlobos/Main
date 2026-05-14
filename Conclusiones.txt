@@ -1,6 +1,0 @@
-El código implementa una prueba sólida y bien estructurada, que valida tanto aspectos funcionales como técnicos del endpoint, incorporando buenas prácticas como:
-
-reutilización de configuración
-validación de contrato
-control de rendimiento
-verificación de header
